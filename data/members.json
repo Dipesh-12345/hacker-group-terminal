@@ -1,0 +1,22 @@
+[
+  {
+    "handle": "root-01",
+    "role": "admin / disclosure lead",
+    "status": "online"
+  },
+  {
+    "handle": "cipher",
+    "role": "crypto notes",
+    "status": "watch"
+  },
+  {
+    "handle": "packet",
+    "role": "network lab",
+    "status": "away"
+  },
+  {
+    "handle": "nullbyte",
+    "role": "textfile editor",
+    "status": "online"
+  }
+]
