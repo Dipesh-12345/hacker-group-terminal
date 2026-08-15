@@ -1,6 +1,4 @@
-# HACKER GROUP Terminal Frontend
 
-Retro black-and-green terminal frontend built with Next.js, React, and TypeScript.
 
 ## Run locally
 
