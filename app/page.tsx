@@ -79,11 +79,11 @@ export default function Home() {
         </pre>
 
         <div className="wordmark" id="site-title">
-          / HACKER GROUP \
+          / Nepali Hacker GROUP \
         </div>
 
         <div className="motd">
-          <p>Hi, welcome to a HACKER GROUP super-low bandwidth site.</p>
+          <p>Welcome to the  HACKER GROUP .</p>
           <p>
             Looking for information about responsible research? You are in luck. See also{" "}
             <Link href="/about">about</Link> and <Link href="/textfiles">textfiles</Link>.
